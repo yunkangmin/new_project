@@ -17,7 +17,7 @@ public class MySQLConnectionTest {
 			"admin";
 	private static final String PW = 
 			"121314";
-			
+			 
 	
 	@Test
 	public void testConnection() throws Exception{
