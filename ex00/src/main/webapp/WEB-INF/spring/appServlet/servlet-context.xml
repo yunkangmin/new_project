@@ -22,6 +22,7 @@
 	</beans:bean>
 	
 	<context:component-scan base-package="org.project.web" />
+	<context:component-scan base-package="org.project.controller" />
 	
 	
 	
