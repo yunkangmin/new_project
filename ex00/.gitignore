@@ -1,6 +1,4 @@
 .settings
 .classpath
 .project
-.springBeans 
-/target
 db.properties
